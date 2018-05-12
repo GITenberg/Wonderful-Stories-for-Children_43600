@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2298
     wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43600#Wonderful-Stories-for-Children
 gutenberg_issued: '2013-08-30'
 gutenberg_type: Text
 identifiers:
