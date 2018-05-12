@@ -1,0 +1,42 @@
+_repo: Wonderful-Stories-for-Children_43600
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Howitt, Mary (Mary Botham)
+    aliases:
+    - Hewitt, Mrs. (Mary Botham)
+    - Howitt, Mary Botham
+    birthdate: 1799
+    deathdate: 1888
+    gutenberg_agent_id: '5477'
+    url: http://www.gutenberg.org/2009/agents/5477
+covers:
+- cover_type: archival
+  image_path: 43600-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2013-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Denmark'
+tableOfContents: Olé Luckoiè, (Shut-eye) -- The daisy -- The naughty boy -- Tommelise
+  -- The rose-elf -- The Garden of Paradise -- A night in the kitchen -- Little Ida's
+  flowers -- The constant tin soldier -- The storks.
+title: Wonderful Stories for Children
+url: http://www.gutenberg.org/ebooks/43600
